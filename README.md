@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project implements a Facial Expression Recognition (FER) system using the Vision Transformer (ViT) architecture. The system is capable of classifying facial expressions into seven categories: happy, sad, angry, fearful, disgusted, surprised, and neutral. With the Vision Transformer, we achieved a 90% accuracy in recognizing these expressions.
+This project implements a Facial Expression Recognition (FER) system using the Vision Transformer (ViT) architecture. The system is capable of classifying facial expressions into seven categories: happy, sad, angry, fearful, disgusted, surprised, and neutral. With the Vision Transformer, we achieved a 85% accuracy in recognizing these expressions.
 
 ## Table of Contents
 - [Introduction](#introduction)
