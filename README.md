@@ -63,11 +63,11 @@ Our model achieved the following results on the test set:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Collaborators
+## Team Members
 
-- github.com/abdeldayem02
-- github.com/Abdalla312
-- github.com/mohannadAyman
+- [Mohammed Abdeldayem](https://github.com/abdeldayem02)
+- [Abdalla Mohammed](https://github.com/Abdalla312)
+- [Mohannad Ayman](https://github.com/mohannadAyman)
 
 ## Contact
 
