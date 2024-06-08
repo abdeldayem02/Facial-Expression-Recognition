@@ -64,7 +64,7 @@ Our model achieved the following results on the test set:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contribitors
+## Contributors
 
 - [Mohammed Abdeldayem](https://github.com/abdeldayem02)
 - [Abdalla Mohammed](https://github.com/Abdalla312)
