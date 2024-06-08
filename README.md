@@ -45,6 +45,9 @@ dataset/
         sad/
         ...
 ```
+- Download the FER-2013 dataset: [FER-2013 dataset](https://www.kaggle.com/datasets/msambare/fer2013)
+- Download the MMI Facial Expression Database: [MMI Facial Expression Database](https://www.kaggle.com/datasets/mahmoudima/mma-facial-expression)
+- Download the AffectNet dataset: [AffectNet dataset](https://www.kaggle.com/datasets/noamsegal/affectnet-training-data)
 
 ## Model Architecture
 
