@@ -63,6 +63,12 @@ Our model achieved the following results on the test set:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+## Contributors
+
+- abdeldayem02
+- Abdalla312
+- mohannadAyman
+
 ## Contact
 
 Mohammed Abdeldayem  
